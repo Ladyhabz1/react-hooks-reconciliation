@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Earlier in the history of React, the term "Virtual DOM" was used to explain how
+Earlier in the history of React, the term "Virtual DOM" was used explainning how
 React was able to perform better than the traditional DOM.
 
 The term 'Virtual DOM' fails to really explain what is happening and may lead to
